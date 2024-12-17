@@ -1,0 +1,14 @@
+[
+  {
+    "First name"  : "Rami",
+    "Last name"   : "Ahmed",
+    "Email"       : "Ramiahmed@gmail.com",
+    "Password"    : "Rami1234",
+    "Confirm password":"Rami1234",
+    "Country"  : "Kuwait",
+    "City": "Salmyia",
+    "Address" : "Salmyia",
+    "postalcode" : "12345",
+    "Phone" : "66611122",
+  }
+]
